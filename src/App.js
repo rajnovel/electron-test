@@ -16,8 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - Netlify
+          Learn React
         </a>
+        <br/>
+        Netlify is really cool!
       </header>
     </div>
   );
